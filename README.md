@@ -1,0 +1,1 @@
+# prettier-bug-prettierPath
