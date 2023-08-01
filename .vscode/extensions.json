@@ -1,0 +1,11 @@
+{"recommendations": [
+  "astro-build.astro-vscode",
+  "dbaeumer.vscode-eslint",
+  "esbenp.prettier-vscode",
+  "stylelint.vscode-stylelint",
+  "Vue.volar",
+  "streetsidesoftware.code-spell-checker",
+  "zixuanchen.vitest-explorer",
+  "alexkrechik.cucumberautocomplete",
+  "mrmlnc.vscode-scss"
+]}
